@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeonka1001)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeonka1001)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true) solved.ac 골드 찍고 풀기--> 
