@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ruddks1001)](https://solved.ac/ruddks1001) [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ruddks1001)](https://solved.ac/profile/ruddks1001)  
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ruddks1001)](https://solved.ac/profile/ruddks1001)  
 
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeonka1001&theme=buefy&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonka1001&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)  
