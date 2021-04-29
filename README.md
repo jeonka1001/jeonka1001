@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  ##### Commit
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeonka1001&theme=buefy&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonka1001&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)  
   
-##### Stack
+##### Tech Stack
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp;  
   
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Android-3DDc84?style=flat-square&logo=android&logoColor=white"/></a>&nbsp;  
