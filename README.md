@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MongoDB-47a258?style=flat-square&logo=mongodb&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Apache_Tomcat-f8dc75?style=flat-square&logo=Apache-Tomcat&logoColor=white"/></a>&nbsp;  
 <img src="https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white"/></a>&nbsp;
 
-['깃허브 트랜드'](https://github.com/trending)
+[깃허브 트랜드](https://github.com/trending)
 
